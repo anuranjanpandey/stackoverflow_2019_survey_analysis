@@ -5,7 +5,7 @@ Stack Overflow’s annual Developer Survey is the largest and most comprehensive
 
 Here we can uncover answers to some crucial questions.
 
-###1. Which is the most popular Language?
+## 1. Which is the most popular Language?
  JavaScript is the most commonly used programming language, but Python has risen in the ranks.
  
  Trends show that Python is the fastest-growing major programming language today.
@@ -14,7 +14,7 @@ Here we can uncover answers to some crucial questions.
 
 ![Language_popularity PieChart](./Images/PieChart.png)
 
-###2. What is the Median Salary of developers by age?  
+## 2. What is the Median Salary of developers by age?  
 It is found that the Median salary of Developers is $57287.
 
 ![Median Salary](./Images/Median_salary_by_age.png)
@@ -22,7 +22,7 @@ It is found that the Median salary of Developers is $57287.
  Python is the programming language of choice for developers who identify as Data Scientists and Machine Learning Specialists. Salaries for Data Scientists and Machine Learning Specialist are the highest in the USA.
 ![Salary](./Images/salary.png)
 
-###3. What kind of programming languages are used by people of various Job profile?
+## 3. What kind of programming languages are used by people of various Job profile?
 Following Data gives us an idea about the programming languages and tools that are used by professionals.
 
 
