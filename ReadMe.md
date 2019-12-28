@@ -20,14 +20,14 @@ It is found that the Median salary of Developers is $57287.
 ![Median Salary](./Images/Median_salary_by_age.png)
 
  Python is the programming language of choice for developers who identify as Data Scientists and Machine Learning Specialists. Salaries for Data Scientists and Machine Learning Specialist are the highest in the USA.
-![Salary](./Images/salary.png)
+![Salary](./Images/Salary.png)
 
 ## 3. What kind of programming languages are used by people of various Job profile?
 Following Data gives us an idea about the programming languages and tools that are used by professionals.
 
 
 
-Developer, desktop or enterprise applications
+### Developer, desktop or enterprise applications
 
 	JavaScript: 67.84%
 	HTML/CSS: 64.55%
@@ -36,7 +36,7 @@ Developer, desktop or enterprise applications
 	Java: 44.69%
 
 
-Developer, front-end
+### Developer, front-end
 
 	JavaScript: 87.72%
 	HTML/CSS: 83.62%
@@ -45,7 +45,7 @@ Developer, front-end
 	PHP: 35.94%
 
 
-Designer
+### Designer
 
 	HTML/CSS: 78.88%
 	JavaScript: 78.33%
@@ -54,7 +54,7 @@ Designer
 	Java: 39.44%
 
 
-Developer, back-end
+### Developer, back-end
 
 	JavaScript: 72.23%
 	HTML/CSS: 65.42%
@@ -63,7 +63,7 @@ Developer, back-end
 	Python: 40.67%
 
 
-Developer, full-stack
+### Developer, full-stack
 
 	JavaScript: 86.15%
 	HTML/CSS: 78.94%
@@ -72,7 +72,7 @@ Developer, full-stack
 	Bash/Shell/PowerShell: 37.91%
 
 
-Academic researcher
+### Academic researcher
 
 	Python: 61.06%
 	HTML/CSS: 55.87%
@@ -81,7 +81,7 @@ Academic researcher
 	Java: 42.26%
 
 
-Developer, mobile
+### Developer, mobile
 
 	JavaScript: 67.72%
 	HTML/CSS: 62.46%
@@ -90,7 +90,7 @@ Developer, mobile
 	C#: 34.34%
 
 
-Data or business analyst
+### Data or business analyst
 
 	SQL: 73.88%
 	HTML/CSS: 62.11%
@@ -99,7 +99,7 @@ Data or business analyst
 	Bash/Shell/PowerShell: 38.43%
 
 
-Data scientist or machine learning specialist
+### Data scientist or machine learning specialist
 
 	Python: 79.33%
 	SQL: 58.44%
@@ -108,7 +108,7 @@ Data scientist or machine learning specialist
 	Bash/Shell/PowerShell: 44.49%
 
 
-Database administrator
+### Database administrator
 
 	SQL: 81.7%
 	JavaScript: 78.11%
@@ -117,7 +117,7 @@ Database administrator
 	PHP: 44.16%
 	
 	
-Engineer, data
+### Engineer, data
 
 	SQL: 66.75%
 	Python: 64.31%
@@ -126,7 +126,7 @@ Engineer, data
 	Bash/Shell/PowerShell: 48.55%
 
 
-Engineer, site reliability
+### Engineer, site reliability
 
 	JavaScript: 69.43%
 	Bash/Shell/PowerShell: 64.05%
@@ -135,7 +135,7 @@ Engineer, site reliability
 	Python: 59.23%
 
 
-Developer, QA or test
+### Developer, QA or test
 
 	JavaScript: 73.38%
 	HTML/CSS: 70.31%
@@ -144,7 +144,7 @@ Developer, QA or test
 	Java: 45.23%
 
 
-DevOps specialist
+### DevOps specialist
 
 	JavaScript: 73.67%
 	HTML/CSS: 66.66%
@@ -153,7 +153,7 @@ DevOps specialist
 	Python: 52.44%
 
 
-Developer, game or graphics
+### Developer, game or graphics
 
 	JavaScript: 69.02%
 	HTML/CSS: 66.37%
@@ -162,7 +162,7 @@ Developer, game or graphics
 	C++: 47.85%
 
 
-Educator
+### Educator
 
 	JavaScript: 70.15%
 	HTML/CSS: 70.15%
@@ -171,7 +171,7 @@ Educator
 	Java: 44.26%
 
 
-Student
+### Student
 
 	HTML/CSS: 68.13%
 	JavaScript: 63.53%
@@ -180,7 +180,7 @@ Student
 	SQL: 51.83%
 
 
-Engineering manager
+### Engineering manager
 
 	JavaScript: 72.35%
 	HTML/CSS: 65.02%
@@ -189,7 +189,7 @@ Engineering manager
 	Python: 46.86%
 
 
-Senior executive/VP
+### Senior executive/VP
 
 	JavaScript: 75.94%
 	HTML/CSS: 71.81%
@@ -198,7 +198,7 @@ Senior executive/VP
 	Python: 46.37%
 
 
-System administrator
+### System administrator
 
 	JavaScript: 73.45%
 	HTML/CSS: 72.57%
@@ -207,7 +207,7 @@ System administrator
 	Python: 51.36%
 
 
-Developer, embedded applications or devices
+### Developer, embedded applications or devices
 
 	JavaScript: 60.89%
 	HTML/CSS: 57.75%
@@ -216,7 +216,7 @@ Developer, embedded applications or devices
 	Python: 50.95%
 
 
-Product manager
+### Product manager
 
 	JavaScript: 75.0%
 	HTML/CSS: 71.92%
@@ -225,7 +225,7 @@ Product manager
 	Bash/Shell/PowerShell: 38.96%
 
 
-Scientist
+### Scientist
 
 	Python: 69.48%
 	HTML/CSS: 51.04%
@@ -234,7 +234,7 @@ Scientist
 	SQL: 44.21%
 
 
-Marketing or sales professional
+### Marketing or sales professional
 
 	HTML/CSS: 76.82%
 	JavaScript: 71.79%
